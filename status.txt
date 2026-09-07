@@ -1,1 +1,3 @@
-true
+Zetrox : true : https://discord.com/api/webhooks/1546237851044286524/NGLyXHVxnxtWY1V9Nt_EkK4UroknMrJPrrC31ahFXjQpNJkAUGVL162q25pOcbDrHlG0
+Storm : true : https://discord.com/api/webhooks/1546607567961329674/Wmj13wYUemjyM9r_TVpFoFj-yXjt47fRrGrWOY2N5Kmy-SGWrmmmhFJgghR7pn8aWda3
+Jasper : true : https://discord.com/api/webhooks/1546607506019590204/aMEv49zjhfcGG0n39lt2VqO5QB1DB3RRXhR8I_yTlL50zH2KMmmnmfGfhjvA6zoEyAZ1
