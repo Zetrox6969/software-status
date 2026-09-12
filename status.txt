@@ -2,3 +2,4 @@ Zetrox : true : https://discord.com/api/webhooks/1546237851044286524/NGLyXHVxnxt
 Storm : true : https://discord.com/api/webhooks/1546607567961329674/Wmj13wYUemjyM9r_TVpFoFj-yXjt47fRrGrWOY2N5Kmy-SGWrmmmhFJgghR7pn8aWda3
 Jasper : true : https://discord.com/api/webhooks/1546607506019590204/aMEv49zjhfcGG0n39lt2VqO5QB1DB3RRXhR8I_yTlL50zH2KMmmnmfGfhjvA6zoEyAZ1
 Josje : true : https://discordapp.com/api/webhooks/1547294806013911151/f-_RS8InHKgHS94ZpH-Kuo1_EJ1E-sLWHBHsxpvtlksC3P9oySCcYMfUYhBZYEO_qINF
+Araz : true : https://discordapp.com/api/webhooks/1548460364511842494/XRAKvwPxJkVciwZaG4N6uR32N7kuxSMrawQp9urGmWYLmrPpFkiDUDTXe1SrU4vkVL5b
