@@ -2,7 +2,7 @@ Zetrox : true : https://discord.com/api/webhooks/1546237851044286524/NGLyXHVxnxt
 Storm : true : https://discord.com/api/webhooks/1546607567961329674/Wmj13wYUemjyM9r_TVpFoFj-yXjt47fRrGrWOY2N5Kmy-SGWrmmmhFJgghR7pn8aWda3
 Jasper : true : https://discord.com/api/webhooks/1546607506019590204/aMEv49zjhfcGG0n39lt2VqO5QB1DB3RRXhR8I_yTlL50zH2KMmmnmfGfhjvA6zoEyAZ1
 Josje : true : https://discordapp.com/api/webhooks/1547294806013911151/f-_RS8InHKgHS94ZpH-Kuo1_EJ1E-sLWHBHsxpvtlksC3P9oySCcYMfUYhBZYEO_qINF
-Araz : true : https://discordapp.com/api/webhooks/1548460364511842494/XRAKvwPxJkVciwZaG4N6uR32N7kuxSMrawQp9urGmWYLmrPpFkiDUDTXe1SrU4vkVL5b
+Araz : false : https://discordapp.com/api/webhooks/1548460364511842494/XRAKvwPxJkVciwZaG4N6uR32N7kuxSMrawQp9urGmWYLmrPpFkiDUDTXe1SrU4vkVL5b
 Rafael : true : https://discordapp.com/api/webhooks/1548722082416820436/W2SsFalmQ1ZyLOPDxzSF3M4d2kNghuOg1-EFgG3EZ1BtnmzUJL62LXXTHjSjeVubxDGZ
 Thijn : true : https://discordapp.com/api/webhooks/1548756934457430198/xRdpI_PmOOoq7xCN2XMdxhAJjYVOGZq3LmEpS7_hU3Nek0lyTl43A97b2W0cqx5Royd0
 Swagie : true : https://discord.com/api/webhooks/1549868788848271462/cT2iRhwIUi6EWU4NZDhC9pZsO4WmETpaUQU1KeM4raxTPe4Pv9fjixt-xeJbyB1n9EoH
