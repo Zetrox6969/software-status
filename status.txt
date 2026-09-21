@@ -7,3 +7,4 @@ Rafael : true : https://discordapp.com/api/webhooks/1548722082416820436/W2SsFalm
 Thijn : true : https://discordapp.com/api/webhooks/1548756934457430198/xRdpI_PmOOoq7xCN2XMdxhAJjYVOGZq3LmEpS7_hU3Nek0lyTl43A97b2W0cqx5Royd0
 Swagie : true : https://discord.com/api/webhooks/1549868788848271462/cT2iRhwIUi6EWU4NZDhC9pZsO4WmETpaUQU1KeM4raxTPe4Pv9fjixt-xeJbyB1n9EoH
 Alex : true : https://discord.com/api/webhooks/1550201920365527132/jIBm5g2Wr-jPvf4RXFPAszTG1jZ28ZerT-9OubLiY6BfqtFICADjQepn8ExWy3Jlga1Y
+Prim : true : https://discord.com/api/webhooks/1551651766561542248/uiyLk4-0DEZJr_uS5SzrkEcx3b58g4_OqqxxK327v28fbaa9CuRJy2z72EckXQnnUlqt
